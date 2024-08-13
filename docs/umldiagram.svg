@@ -1,0 +1,126 @@
+<svg version="1.1" baseProfile="full" width="970.0" height="321.0" viewbox="0 0 970 321" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<desc >#.interface: fill=lightblue
+#.enumeration: fill=lightgreen
+#.type: fill=lightgray
+[&lt;interface&gt;stduentrank|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+rank: { type: Number; }|]
+[&lt;interface&gt;studentdetails|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+name: { type: String; };+rollno: { type: String; };+cls: { type: String; }|]
+[&lt;interface&gt;studentmarks|+created_date: { type: Date; };+created_by: { type: String; };+last_modified_by: { type: String; };+last_modified_date: { type: Date; };+tamil: { type: Number; };+english: { type: Number; };+maths: { type: Number; }|]</desc>
+<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="normal" font-style="normal">
+<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+<g stroke="transparent" fill="transparent">
+<rect x="0.0" y="0.0" height="321.0" width="970.0" stroke="none"></rect>
+</g>
+<g transform="translate(8, 8)" fill="#33322E">
+<g transform="translate(20, 20)">
+<g data-name="stduentrank">
+<g fill="lightblue" stroke="#33322E" data-name="stduentrank">
+<rect x="0.0" y="30.0" height="205.0" width="278.0" data-name="stduentrank"></rect>
+<path d="M0.0 61.0 L278.0 61.0" fill="none" data-name="stduentrank"></path>
+<path d="M0.0 227.0 L278.0 227.0" fill="none" data-name="stduentrank"></path>
+</g>
+<g transform="translate(0, 30)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="stduentrank">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="stduentrank">
+<a id="../application/services/diagrams/serviceModels/stduentrank.ts.stduentrank" xlink:href="../application/services/diagrams/serviceModels/stduentrank.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="stduentrank">stduentrank</text></a>
+
+</g>
+</g>
+<g transform="translate(0, 61)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="stduentrank">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="stduentrank">
+<text x="0.0" y="13.5" stroke="none" data-name="stduentrank">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="stduentrank">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="stduentrank">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="stduentrank">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="stduentrank">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="stduentrank">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="stduentrank">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="stduentrank">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="stduentrank">+rank: { type: Number</text>
+<text x="0.0" y="148.5" stroke="none" data-name="stduentrank">}</text>
+
+</g>
+</g>
+<g transform="translate(0, 227)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="stduentrank">
+<g transform="translate(8, 8)" fill="#33322E" data-name="stduentrank">
+
+</g>
+</g>
+</g>
+<g data-name="studentdetails">
+<g fill="lightblue" stroke="#33322E" data-name="studentdetails">
+<rect x="318.0" y="0.0" height="265.0" width="278.0" data-name="studentdetails"></rect>
+<path d="M318.0 31.0 L596.0 31.0" fill="none" data-name="studentdetails"></path>
+<path d="M318.0 257.0 L596.0 257.0" fill="none" data-name="studentdetails"></path>
+</g>
+<g transform="translate(318, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentdetails">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="studentdetails">
+<a id="../application/services/diagrams/serviceModels/studentdetails.ts.studentdetails" xlink:href="../application/services/diagrams/serviceModels/studentdetails.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="studentdetails">studentdetails</text></a>
+
+</g>
+</g>
+<g transform="translate(318, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentdetails">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="studentdetails">
+<text x="0.0" y="13.5" stroke="none" data-name="studentdetails">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="studentdetails">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="studentdetails">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="studentdetails">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="studentdetails">+name: { type: String</text>
+<text x="0.0" y="148.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="163.5" stroke="none" data-name="studentdetails">+rollno: { type: String</text>
+<text x="0.0" y="178.5" stroke="none" data-name="studentdetails">}</text>
+<text x="0.0" y="193.5" stroke="none" data-name="studentdetails">+cls: { type: String</text>
+<text x="0.0" y="208.5" stroke="none" data-name="studentdetails">}</text>
+
+</g>
+</g>
+<g transform="translate(318, 257)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentdetails">
+<g transform="translate(8, 8)" fill="#33322E" data-name="studentdetails">
+
+</g>
+</g>
+</g>
+<g data-name="studentmarks">
+<g fill="lightblue" stroke="#33322E" data-name="studentmarks">
+<rect x="636.0" y="0.0" height="265.0" width="278.0" data-name="studentmarks"></rect>
+<path d="M636.0 31.0 L914.0 31.0" fill="none" data-name="studentmarks"></path>
+<path d="M636.0 257.0 L914.0 257.0" fill="none" data-name="studentmarks"></path>
+</g>
+<g transform="translate(636, 0)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentmarks">
+<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="studentmarks">
+<a id="../application/services/diagrams/serviceModels/studentmarks.ts.studentmarks" xlink:href="../application/services/diagrams/serviceModels/studentmarks.ts"><text x="131.0" y="13.5" stroke="none" text-anchor="middle" data-name="studentmarks">studentmarks</text></a>
+
+</g>
+</g>
+<g transform="translate(636, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentmarks">
+<g transform="translate(8, 8)" fill="#33322E" text-align="left" data-name="studentmarks">
+<text x="0.0" y="13.5" stroke="none" data-name="studentmarks">+created_date: { type: Date</text>
+<text x="0.0" y="28.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="43.5" stroke="none" data-name="studentmarks">+created_by: { type: String</text>
+<text x="0.0" y="58.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="73.5" stroke="none" data-name="studentmarks">+last_modified_by: { type: String</text>
+<text x="0.0" y="88.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="103.5" stroke="none" data-name="studentmarks">+last_modified_date: { type: Date</text>
+<text x="0.0" y="118.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="133.5" stroke="none" data-name="studentmarks">+tamil: { type: Number</text>
+<text x="0.0" y="148.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="163.5" stroke="none" data-name="studentmarks">+english: { type: Number</text>
+<text x="0.0" y="178.5" stroke="none" data-name="studentmarks">}</text>
+<text x="0.0" y="193.5" stroke="none" data-name="studentmarks">+maths: { type: Number</text>
+<text x="0.0" y="208.5" stroke="none" data-name="studentmarks">}</text>
+
+</g>
+</g>
+<g transform="translate(636, 257)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="studentmarks">
+<g transform="translate(8, 8)" fill="#33322E" data-name="studentmarks">
+
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
